@@ -28,12 +28,14 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
+<!--
 # Statistics
-[![Atreides' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-cauhe&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cauhe&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-cauhe&show_icons=true&theme=dark)](https://github.com/lucas-cauhe/github-readme-stats)
+![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-cauhe&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cauhe&size_weight=0.5&count_weight=0.5&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=lucas-cauhe)
-
+-->
 <!--
 **lucas-cauhe/lucas-cauhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
